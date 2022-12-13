@@ -1,0 +1,19 @@
+body {
+	background-image: url(19350.jpg);
+	background-repeat: repeat-y;
+	background-size: 300px;
+}
+
+#new {font-weight: bold; font-style: italic;}
+
+img {
+	box-shadow: 5px 5px 7px 9px blue;
+	border-radius: 900px;
+}
+
+table {
+	border: 3px dotted blue;
+	border-collapse: collapse;
+}
+
+td, th {border: 15px dotted blue;}
